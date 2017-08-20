@@ -1,4 +1,6 @@
-# markdown-tree [![Flattr this!](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=hughskennedy&url=http://github.com/hughsk/markdown-tree&title=markdown-tree&description=hughsk/markdown-tree%20on%20GitHub&language=en_GB&tags=flattr,github,javascript&category=software)[![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://github.com/hughsk/stability-badges) #
+# markdown-tree [![deprecated](http://hughsk.github.io/stability-badges/dist/deprecated.svg)](http://github.com/hughsk/stability-badges) #
+
+**Deprecated: use something like [remark](https://www.npmjs.com/package/remark) instead?**
 
 Convert a markdown document into a JSON tree structure, using
 [marked](http://github.com/chjj/marked) under the hood.
